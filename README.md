@@ -15,7 +15,7 @@ Este es un proyecto simple de **cotizador de préstamos** desarrollado con **Rea
 
 Puedes ver una versión en vivo (si está disponible):
 
-👉 [Ver demo](https://prestamos-react.netlify.app)
+👉 [Ver demo](https://prestamos-react-dev.netlify.app)
 
 ## 📦 Instalación
 
